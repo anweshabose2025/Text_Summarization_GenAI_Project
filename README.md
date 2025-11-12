@@ -1,0 +1,2 @@
+# Text_Summarization_GenAI_Project
+Text Summarization
